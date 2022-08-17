@@ -1,0 +1,4 @@
+﻿Build iniciado...
+1>------ Compilação iniciada: Projeto: WindowsFormsApp2, Configuração: Debug Any CPU ------
+1>  WindowsFormsApp2 -> C:\Users\paulo.ricardo5\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+========== Compilar: 1 com êxito, 0 com falha, 0 atualizados, 0 ignorados ==========
